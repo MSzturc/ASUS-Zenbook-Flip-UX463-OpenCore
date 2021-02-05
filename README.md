@@ -21,6 +21,25 @@ sysInfo | neoFetch
 - <b>Sound</b>: Realtek ALC294
 - <b>Camera</b>: USB2.0 HD IR UVC WebCam
 
+# Bios settings
+
+<b>Advanced</b>
+- Fn lock Option - **Enabled** 
+- Hyper-Threading - **Enabled**
+- Intel Virtualization - **Enabled**
+- Intel AES-NI - **Disabled**
+- VT-d - **Enabled**
+- Network Stack - **Disabled**
+- USB Configuration - **Enabled**
+- Graphics Configuration - **64M**
+- Sata Mode - **AHCI**
+
+<b>Boot</b>
+- Fast Boot - **Disabled**
+
+<b>Security</b>
+- Secure Boot - **Disabled**
+
 # What's Working?
 - [x] Intel UHD Graphics 620 (incuding graphics acceleration)
 - [x] CPU Power Management
