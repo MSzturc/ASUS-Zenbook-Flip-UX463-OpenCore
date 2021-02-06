@@ -27,7 +27,7 @@ sysInfo | neoFetch
 - Fn lock Option - **Enabled** 
 - Hyper-Threading - **Enabled**
 - Intel Virtualization - **Enabled**
-- Intel AES-NI - **Disabled**
+- Intel AES-NI - **Enabled**
 - VT-d - **Enabled**
 - Network Stack - **Disabled**
 - USB Configuration - **Enabled**
