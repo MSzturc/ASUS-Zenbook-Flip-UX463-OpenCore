@@ -51,6 +51,7 @@ sysInfo | neoFetch
 - [x] Realtek ALC294 Audio (including headphones jack & usb-c headsets)
 - [x] Wi-Fi & Bluetooth (including Apple services)
 - [x] Trackpad (without gestures)
+- [x] Touchscreen (including Stylus)
 - [x] Sleep / Wake / Shutdown / Reboot (lid sleep and lid wake)
 - [x] Keyboard (incuding FN Keys F1-F6)
 - [x] iMessage, FaceTime, App Store, iTunes Store (with valid smbios)
