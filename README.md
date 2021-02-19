@@ -6,6 +6,7 @@ sysInfo | neoFetch
 ![T460](Images/SysInfo.png) | ![T460](Images/NeoFetch.png)
 
 # Update History
+- [x] macOS 11.2.1
 - [x] macOS 11.2
 - [x] macOS 11.1
 
