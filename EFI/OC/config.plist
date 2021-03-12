@@ -60,7 +60,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-FNKEY.aml</string>
+				<string>SSDT-Keyboard.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
